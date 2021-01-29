@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="local_weather">Local Weather</string>
+    <string name="humidity">%d%%</string>
+    <string name="temp">%d°C</string>
+
+</resources>
